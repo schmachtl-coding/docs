@@ -1,0 +1,47 @@
+{
+  "navigation": [
+    {
+      "title": "Übersicht",
+      "links": [
+        {
+          "title": "Startseite",
+          "href": "/"
+        }
+      ]
+    },
+    {
+      "title": "Devices & Intune",
+      "links": [
+        {
+          "title": "Intune Autopilot",
+          "href": "/devices/autopilot"
+        },
+        {
+          "title": "Intune Geräteverwaltung",
+          "href": "/devices/management"
+        },
+        {
+          "title": "Intune Problemanalyse",
+          "href": "/devices/troubleshooting"
+        }
+      ]
+    },
+    {
+      "title": "Mitarbeiteranlage",
+      "links": [
+        {
+          "title": "Benutzerkonto",
+          "href": "/users/account"
+        },
+        {
+          "title": "Benutzergruppen",
+          "href": "/users/groups"
+        },
+        {
+          "title": "Benutzerrechner & Setup",
+          "href": "/users/setup"
+        }
+      ]
+    }
+  ]
+}
