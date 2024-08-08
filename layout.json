@@ -42,6 +42,23 @@
           "href": "/users/setup"
         }
       ]
+    },
+    {
+      "title": "Drucker & Druckserver",
+      "links": [
+        {
+          "title": "Benutzerkonto",
+          "href": "/users/account"
+        },
+        {
+          "title": "Benutzergruppen",
+          "href": "/users/groups"
+        },
+        {
+          "title": "Benutzerrechner & Setup",
+          "href": "/users/setup"
+        }
+      ]
     }
   ]
 }
