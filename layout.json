@@ -47,8 +47,8 @@
       "title": "Drucker & Druckserver",
       "links": [
         {
-          "title": "Benutzerkonto",
-          "href": "/users/account"
+          "title": "Druckerliste",
+          "href": "/print/list"
         },
         {
           "title": "Benutzergruppen",
