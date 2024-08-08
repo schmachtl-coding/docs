@@ -49,14 +49,6 @@
         {
           "title": "Druckerliste",
           "href": "/print/list"
-        },
-        {
-          "title": "Benutzergruppen",
-          "href": "/users/groups"
-        },
-        {
-          "title": "Benutzerrechner & Setup",
-          "href": "/users/setup"
         }
       ]
     }
